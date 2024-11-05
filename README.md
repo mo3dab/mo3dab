@@ -12,11 +12,8 @@
 </p> 
 
 - 👨‍💻 I'm a computer science student with a passion for artificial intelligence and a curiosity for exploring different areas of AI.
-- 
 - 💬 Here, I share my projects, theories, and ideas to connect with others in the tech community.
-- 
 - ⚡  I'm constantly learning and working on ways to apply AI theories in practical projects.
-- 
 - 👨‍💻 Check out my portfolio to see some of the projects I've worked on.
 
 
