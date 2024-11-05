@@ -10,9 +10,13 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
-- 👨‍💻 I'm a computer science student with a passion for artificial intelligence and a curiosity for exploring different areas of AI. 
+
+- 👨‍💻 I'm a computer science student with a passion for artificial intelligence and a curiosity for exploring different areas of AI.
+- 
 - 💬 Here, I share my projects, theories, and ideas to connect with others in the tech community.
+- 
 - ⚡  I'm constantly learning and working on ways to apply AI theories in practical projects.
+- 
 - 👨‍💻 Check out my portfolio to see some of the projects I've worked on.
 
 
