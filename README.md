@@ -11,7 +11,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Artificial%20Intelligence;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 👨‍💻 I'm a computer science student with a passion for artificial intelligence and a curiosity for exploring different areas of AI.
+- 👨‍💻 I'm a computer science student with a passion for Artificial Intelligence and a curiosity for exploring different areas of AI.
 - 💬 Here, I share my projects, theories, and ideas to connect with others in the tech community.
 - ⚡  I'm constantly learning and working on ways to apply AI theories in practical projects.
 - 👨‍💻 Check out my portfolio to see some of the projects I've worked on.
@@ -20,7 +20,7 @@
 ### Connect with Me :
 
 <a href="https://www.linkedin.com/in/mohamed-khalifa-4890b227a/" target="_blank"><img src="https://img.shields.io/badge/-mohamed%20khalifa-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/YousefMohamed01" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+<a href="https://t.me/M_ahkh" target="_blank"><img src="https://img.shields.io/badge/-mohamed%20khalifa-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
 <a href="https://www.buymeacoffee.com/yousefdergham" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/lato-orange.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
